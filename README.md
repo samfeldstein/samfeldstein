@@ -1,5 +1,11 @@
 # Sam Feldstein
 
+> Frontend Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/samfeldstein)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:samuelfeldstein@proton.me)
+[![Website](https://img.shields.io/badge/VetsWhoCode-Website-green)](https://samfeldstein.xyz/)
+
 ## About Me
 
 Hi, I'm Sam! I'm a Frontend Developer building high-performance websites for small businesses and professionals. My transition to the world of web development began in 2023, when I decided I needed a website to showcase my writing. At some point I realized I liked the coding more than the writing, and the rest is history. Since then I've focussed on building high-performance sites with a Lean Web approach in order to create light but powerful websites that are built to last.
