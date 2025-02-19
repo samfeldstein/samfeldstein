@@ -25,9 +25,9 @@ My transition to the world of web development began in 2023, when I decided I ne
 
 ```js
 const skills = {
-languages: ["Semantic HTML", "modern CSS", "JavaScript"],
-frameworks: ["Astro", "Eleventy"]
-webPerformance: "Proficient in modern web performance optimization methods including static site generation, modern image formats, font-loading strategies, CDN caching, component architecture, and service workers."
+  languages: ["Semantic HTML", "modern CSS", "JavaScript"],
+  frameworks: ["Astro", "Eleventy"]
+  webPerformance: "Proficient in modern web performance optimization methods including static site generation, modern image formats, font-loading strategies, CDN caching, component architecture, and service workers."
 }
 ```
 
