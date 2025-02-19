@@ -2,9 +2,9 @@
 
 > Frontend Developer
 
-![LinkedIn](www.linkedin.com/in/samfeldstein)
-![Email](mailto:samuelfeldstein@proton.me)
-![Website](https://samfeldstein.xyz/)
+[LinkedIn](www.linkedin.com/in/samfeldstein)
+[Email](mailto:samuelfeldstein@proton.me)
+[Website](https://samfeldstein.xyz/)
 
 ## About Me
 
