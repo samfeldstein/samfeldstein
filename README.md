@@ -21,11 +21,15 @@ Hi, I'm Sam! I'm a Frontend Developer building high-performance websites for sma
 
 My transition to the world of web development began in 2023, when I decided I needed a website to showcase my writing. At some point I realized I liked the coding more than the writing, and the rest is history. Since then I've focussed on building high-performance sites with a Lean Web approach in order to create light but powerful websites that are built to last.
 
-## Technical Skills 
+## 🛠️ Technical Skills
 
-- Languages: Semantic HTML, modern CSS, JavaScript
-- Frameworks: Astro, Eleventy
-- Web performance: Proficient in modern web performance optimization methods including static site generation, modern image formats, font-loading strategies, CDN caching, component architecture, and service workers.
+```js
+const skills = {
+languages: ["Semantic HTML", "modern CSS", "JavaScript"],
+frameworks: ["Astro", "Eleventy"]
+webPerformance: "Proficient in modern web performance optimization methods including static site generation, modern image formats, font-loading strategies, CDN caching, component architecture, and service workers."
+}
+```
 
 ## Projects
 
