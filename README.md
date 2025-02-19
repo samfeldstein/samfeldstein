@@ -2,9 +2,9 @@
 
 > Frontend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/samfeldstein)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:samuelfeldstein@proton.me)
-[![Website](https://img.shields.io/badge/VetsWhoCode-Website-green)](https://samfeldstein.xyz/)
+[![LinkedIn](www.linkedin.com/in/samfeldstein)
+[![Email](mailto:samuelfeldstein@proton.me)
+[![Website](https://samfeldstein.xyz/)
 
 ## About Me
 
