@@ -3,7 +3,7 @@
 > Frontend Developer
 
 <p>
-<a href="mailto:samuelfeldstein@proton.me">
+<a href="mailto:sam@samfeldstein.xyz">
     <img src="https://img.shields.io/badge/Email-724FFF" alt="Send me an email.">
   </a>
   
@@ -38,6 +38,6 @@ const skills = {
 
 ## ✉️ Connect with Me
 
-- **Email**: [samuelfeldstein@proton.me](mailto:samuelfeldstein@proton.me)
+- **Email**: [sam@samfeldstein.xyz](mailto:sam@samfeldstein.xyz)
 - **LinkedIn**: [@samfeldstein](https://www.linkedin.com/in/samfeldstein)
 - **Website**: [samfeldstein.xyz](https://samfeldstein.xyz)
