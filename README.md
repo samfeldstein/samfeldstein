@@ -39,5 +39,5 @@ const skills = {
 ## ✉️ Connect with Me
 
 - **Email**: [samuelfeldstein@proton.me](mailto:samuelfeldstein@proton.me)
-- **LinkedIn**: [@samfeldstein](www.linkedin.com/in/samfeldstein)
+- **LinkedIn**: [@samfeldstein](https://www.linkedin.com/in/samfeldstein)
 - **Website**: [samfeldstein.xyz](https://samfeldstein.xyz)
