@@ -30,11 +30,13 @@ const skills = {
 }
 ```
 
-## 🧰 Projects
+## 🧰 Selected Projects
 
-- [Danceophile Studio](https://danceophile.com): A complete rebuild of a legacy website into a modern, performant static site using Astro.
-- [Prairie Rose Arena](https://prairierosearena.com): A high-performance static site for an equestrian event center in Iowa. Built with Eleventy.
-- [Personal Site](https://samfeldstein.xyz): My personal site, built with Astro. Highly optimized to achieve sub-second load times and 95+ Lighthouse scores.
+- [Shelf Talker Generator](https://shelf-talker.pages.dev/). A simple web app for formatting shelf talkers.
+- [Danceophile Studio](https://danceophile.com). A complete rebuild of a legacy website into a modern, performant static site using Astro.
+- [Prairie Rose Arena](https://prairierosearena.com). A high-performance static site for an equestrian event center in Iowa. Built with Eleventy.
+
+See the rest of my projects here on GitHub or on my [website](https://samfeldstein.xyz/code/).
 
 ## ✉️ Connect with Me
 
