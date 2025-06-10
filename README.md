@@ -6,7 +6,6 @@
 <a href="mailto:sam@samfeldstein.xyz">
     <img src="https://img.shields.io/badge/Email-724FFF" alt="Send me an email.">
   </a>
-  
   <a href="https://www.linkedin.com/in/samfeldstein">
     <img src="https://img.shields.io/badge/LinkedIn-0B65C2" alt="Connect with me on LinkedIn.">
   </a>
