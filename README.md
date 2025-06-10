@@ -18,7 +18,7 @@
 
 ## About Me
 
-Hi, I'm Sam! I'm a Frontend Developer building high-performance websites for small businesses and professionals. My transition to the world of web development began in 2023, when I decided I needed a website to showcase my writing. At some point I realized I liked the coding more than the writing, and the rest is history. Since then I've focussed on building high-performance sites with a Lean Web approach in order to create light but powerful websites that are built to last.
+Hi, I'm Sam. I'm a Frontend Developer building high-performance websites for small businesses and professionals. My transition to the world of web development began in 2023, when I decided I needed a website to showcase my writing. At some point I realized I liked the coding more than the writing, and the rest is history. Since then I've focussed on building high-performance sites with a Lean Web approach in order to create light but powerful websites that are built to last.
 
 ## 🛠️ Technical Skills
 
