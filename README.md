@@ -5,7 +5,7 @@
 <p>
 <a href="https://presswork.dev"><img src="https://img.shields.io/badge/Presswork_Web_Co.-6684E1" alt="Visit Presswork Web Co."></a>
 <a href="https://www.linkedin.com/in/samfeldstein"><img src="https://img.shields.io/badge/LinkedIn-0B65C2" alt="Connect with me on LinkedIn."></a>
-<a href="mailto:sam@presswork.dev"><img src="https://img.shields.io/badge/Email-724FFF" alt="Send me an email."></a>
+<a href="mailto:sam@samfeldstein.com"><img src="https://img.shields.io/badge/Email-724FFF" alt="Send me an email."></a>
 </p>
 
 ## About Me
@@ -26,4 +26,4 @@ See the rest of my projects here on GitHub or in my [portfolio](https://samfelds
 
 - **Website**: [presswork.dev](https://presswork.dev)
 - **LinkedIn**: [@samfeldstein](https://www.linkedin.com/in/samfeldstein)
-- **Email**: [sam@presswork.dev](mailto:sam@presswork.dev)
+- **Email**: [sam@samfeldstein.com](mailto:sam@samfeldstein.com)
