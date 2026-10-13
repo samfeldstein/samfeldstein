@@ -10,9 +10,7 @@
 
 ## About Me
 
-I'm a freelance front-end web developer in Denver, building high-performance websites for small businesses and professionals through [Presswork Web Co.](https://presswork.dev) I build with vanilla HTML, CSS, and JavaScript, extending with Astro and Vue where interactivity is needed, and a headless CMS where clients need to manage their own content. I care most about web performance, accessibility, and sites that are easy to use.
-
-I started building websites in 2023 to share my writing and found I liked the coding more.
+I'm a freelance web developer in Denver building high-performance websites for small businesses and professionals through [Presswork Web Co.](https://presswork.dev) I build with vanilla HTML, CSS, and JavaScript, extending with Astro and Vue where interactivity or content management is needed, and a headless CMS where clients need to update their own sites. I aim to build sites that load fast, show up in search, and work for everyone.
 
 ## Selected Projects
 
@@ -20,7 +18,7 @@ I started building websites in 2023 to share my writing and found I liked the co
 - [Little Peaks Pediatric Therapy](https://littlepeakspediatrictherapy.com/). A single-page site for a pediatric therapy practice, built with Astro and deployed on Cloudflare Workers, with a custom contact form that sends email through Resend.
 - [Digital Notebook](https://github.com/samfeldstein/notebook-astro). A wiki-style personal knowledge base built with Astro, Obsidian, and Cloudflare Workers.
 
-See the rest of my projects here on GitHub or in my [portfolio](https://samfeldstein.xyz/code/).
+See the rest of my projects here on GitHub.
 
 ## Connect with Me
 
