@@ -16,7 +16,7 @@ I'm a freelance web developer in Denver building high-performance websites for s
 
 - [Presswork Web Co.](https://presswork.dev) ([code](https://github.com/samfeldstein/presswork-web-co)). My freelance business site. Plain HTML, CSS, and JavaScript, deployed on Cloudflare Workers, with a Worker that handles the contact form.
 - [Little Peaks Pediatric Therapy](https://littlepeakspediatrictherapy.com/). A single-page site for a pediatric therapy practice, built with Astro and deployed on Cloudflare Workers, with a custom contact form that sends email through Resend.
-- [Digital Notebook](https://github.com/samfeldstein/notebook-astro). A wiki-style personal knowledge base built with Astro, Obsidian, and Cloudflare Workers.
+- [Digital Notebook](https://github.com/samfeldstein/notebook-astro). A wiki-style personal knowledge base built with Astro, Foam, and Cloudflare Workers.
 
 See the rest of my projects here on GitHub.
 
